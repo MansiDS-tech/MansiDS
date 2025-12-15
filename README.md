@@ -1,12 +1,11 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/illustrations/coding-female.svg"
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/img/programmer.svg"
     width="260"
-    alt="Girl Programming"
+    alt="Female Developer"
   />
 </div>
-
 
 
 
