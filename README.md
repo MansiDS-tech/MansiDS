@@ -1,11 +1,12 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Woman%20technologist/3D/woman_technologist_3d.png" 
-    width="160" 
-    alt="Girl Programmer Coding"
+    src="https://cdn-icons-png.flaticon.com/512/4325/4325935.png" 
+    width="180" 
+    alt="Woman Coding"
   />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
 <h3 align="center">📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast</h3>
