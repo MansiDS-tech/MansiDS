@@ -1,67 +1,107 @@
 # MansiDS
-# 👋 Hi, I'm Mansi Choudhary
+<div align="center">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/4325/4325935.png" 
+    width="180" 
+    alt="Woman Coding"
+  />
+</div>
 
-### 📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast
 
-I am a **Data Science student at AAFT**, passionate about transforming data into meaningful insights.  
-I enjoy working on **real-world datasets**, building **machine learning models**, and creating **data-driven solutions**.
+<h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
+<h3 align="center">📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansi-choudhary-b33279357/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MansiDS-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mansichoudhary9821@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 - 🔭 Currently working on **SkillFusion AI**
-- 🌱 Currently learning **Data Science, Machine Learning & Analytics**
-- 📈 Interested in **Data Analysis, ML Projects, and AI-driven systems**
-- 💡 Always eager to learn and explore new technologies
+- 🌱 Learning **Data Science, Machine Learning & Analytics**
+- 📊 Interested in **Data Analysis & AI-driven solutions**
+- 💡 Passionate about turning data into insights
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages & Tools
 
 ### 💻 Programming & Data
-- Python
-- SQL (MySQL)
-- Pandas, NumPy
-- Scikit-learn
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+  </a>
+</p>
 
-### 📊 Data & Visualization
-- Matplotlib
-- Seaborn
-- Power BI
-- Excel
+### 📊 Visualization & BI
+<p align="left">
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="45"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>
+  </a>
+</p>
 
 ### 🤖 Machine Learning
-- Logistic Regression
-- Decision Trees
-- Data Preprocessing
-- Model Evaluation
+<p align="left">
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  </a>
+</p>
 
 ### ☁️ Tools & Platforms
-- Git & GitHub
-- AWS (Basics)
-- Jupyter Notebook
-- VS Code
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  </a>
+</p>
 
 ---
 
 ## 📂 Projects
-🔹 All my projects are available here:  
-👉 **[GitHub Repositories](https://github.com/MansiDS-tech?tab=repositories)**
+🔹 **All projects:**  
+👉 https://github.com/MansiDS-tech?tab=repositories
 
-Highlighted Project:
-- **SkillFusion AI** – AI-powered skill analysis and job matching system
-
----
-
-## 📫 Connect With Me
-- 📧 Email: **mansichoudhary9821@gmail.com**
-- 💼 LinkedIn: **[Mansi Choudhary](https://www.linkedin.com/in/mansi-choudhary-b33279357/)**
+⭐ Featured:
+- **SkillFusion AI** – AI-powered skill analysis & job matching system
 
 ---
 
 ## 🎯 Career Goal
-To build a strong career as a **Data Analyst / Data Scientist**, contributing to impactful projects using data, analytics, and machine learning.
+To grow as a **Data Analyst / Data Scientist**, building impactful solutions using data and machine learning.
 
----
-
-⭐ *If you like my work, feel free to star my repositories and connect with me!*
+✨ *Thanks for visiting my profile — let’s connect and collaborate!*
