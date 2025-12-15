@@ -1,9 +1,9 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-    width="260"
-    alt="Girl Coding Animation"
+    src="https://cdn-icons-png.flaticon.com/512/706/706807.png"
+    width="220"
+    alt="Girl Programmer Coding on Laptop"
   />
 </div>
 
