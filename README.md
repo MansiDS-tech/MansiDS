@@ -1,9 +1,10 @@
 # MansiDS-tech
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=👩‍💻+Girl+Developer+Coding+with+🎧;💻+Writing+Python+Code...;⌨️+Building+ML+Models...;📊+Turning+Data+into+Insights"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Writing+Clean+Code...;Building+Data+Science+Projects;Training+Machine+Learning+Models;Turning+Data+into+Insights"
   />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
 <h3 align="center">📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast</h3>
