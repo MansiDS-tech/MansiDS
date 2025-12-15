@@ -1,15 +1,14 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/SupianIDz/supianidz/main/assets/coding.gif"
+    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/coding-girl.gif"
     width="260"
-    alt="Girl Coding at Desk"
   />
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
 <h3 align="center">📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mansi-choudhary-b33279357/" target="_blank">
