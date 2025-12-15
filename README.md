@@ -1,9 +1,9 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://cdn-icons-png.flaticon.com/512/4325/4325935.png"
+    src="https://cdn-icons-png.flaticon.com/512/2922/2922561.png"
     width="220"
-    alt="Woman Coding Illustration"
+    alt="Female Software Developer"
   />
 </div>
 
