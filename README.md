@@ -1,6 +1,10 @@
 # MansiDS-tech
 <div align="center">
-  <img src="girl-programming.png" width="280" alt="Girl Programming at Computer"/>
+  <img 
+    src="https://raw.githubusercontent.com/MansiDS-tech/MansiDS-tech/main/female-developer.png"
+    width="320"
+    alt="Female Software Developer Programming"
+  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
