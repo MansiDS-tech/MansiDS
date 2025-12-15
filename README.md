@@ -1,11 +1,12 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://cdn-icons-png.flaticon.com/512/4325/4325935.png" 
-    width="180" 
-    alt="Woman Coding"
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/illustrations/coding-female.svg"
+    width="260"
+    alt="Girl Programming"
   />
 </div>
+
 
 
 
