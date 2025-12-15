@@ -1,4 +1,4 @@
-# MansiDS
+# MansiDS-tech
 <div align="center">
   <img src="girl-programming.png" width="280" alt="Girl Programming at Computer"/>
 </div>
