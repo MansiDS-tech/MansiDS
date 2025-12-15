@@ -1,8 +1,11 @@
 # MansiDS
 <div align="center">
-  <img src="coding.gif" width="320" alt="Programming Animation"/>
+  <img 
+    src="girl-programming.png"
+    width="280"
+    alt="Girl Programming at Computer"
+  />
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Mansi Choudhary</h1>
 <h3 align="center">📊 Data Science Student | Aspiring Data Analyst | ML Enthusiast</h3>
