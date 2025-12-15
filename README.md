@@ -1,9 +1,9 @@
 # MansiDS
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/img/programmer.svg"
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
     width="260"
-    alt="Female Developer"
+    alt="Girl Coding Animation"
   />
 </div>
 
